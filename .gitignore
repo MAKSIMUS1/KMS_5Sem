@@ -1,0 +1,58 @@
+# Системные файлы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+desktop.ini
+Thumbs.db
+
+# Системные файлы Windows
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Системные файлы macOS
+[Tt]humbs.db
+[Dd]esktop.ini
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Файлы библиотеки и метаданные Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Автосгенерированные файлы Visual Studio
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity Asset Store tools
+[Oo]pen[Ss]hops/
+[Oo]pen[Pp]ayments/
+
+# Unity auto-generated files
+sysinfo.txt
+*.apk
+*.unitypackage
